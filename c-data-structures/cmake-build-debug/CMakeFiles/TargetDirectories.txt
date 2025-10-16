@@ -1,0 +1,4 @@
+C:/Users/jvgam/Yggdrasil/Code/Libraries/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir
+C:/Users/jvgam/Yggdrasil/Code/Libraries/c-data-structures/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/jvgam/Yggdrasil/Code/Libraries/c-data-structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jvgam/Yggdrasil/Code/Libraries/c-data-structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
