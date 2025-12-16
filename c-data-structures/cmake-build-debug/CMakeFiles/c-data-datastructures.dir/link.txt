@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc libc-data-datastructures.a "CMakeFiles/c-data-datastructures.dir/src/vector.c.obj" "CMakeFiles/c-data-datastructures.dir/src/list.c.obj" "CMakeFiles/c-data-datastructures.dir/src/stack.c.obj" "CMakeFiles/c-data-datastructures.dir/src/graph.c.obj"
-C:\MinGW\bin\ranlib.exe libc-data-datastructures.a
