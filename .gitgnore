@@ -1,7 +1,6 @@
 .idea/
 cmake-build-*/
 
-
 CMakeCache.txt
 CMakeFiles/
 CMakeScripts/

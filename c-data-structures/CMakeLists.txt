@@ -12,6 +12,8 @@ add_library(c-data-datastructures
         src/list.c
         include/stack.h
         src/stack.c
+        include/graph.h
+        src/graph.c
 )
 
 add_executable(main test/main.c)

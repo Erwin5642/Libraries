@@ -141,6 +141,30 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+src/graph.obj: src/graph.c.obj
+.PHONY : src/graph.obj
+
+# target to build an object file
+src/graph.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c-data-datastructures.dir\build.make CMakeFiles/c-data-datastructures.dir/src/graph.c.obj
+.PHONY : src/graph.c.obj
+
+src/graph.i: src/graph.c.i
+.PHONY : src/graph.i
+
+# target to preprocess a source file
+src/graph.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c-data-datastructures.dir\build.make CMakeFiles/c-data-datastructures.dir/src/graph.c.i
+.PHONY : src/graph.c.i
+
+src/graph.s: src/graph.c.s
+.PHONY : src/graph.s
+
+# target to generate assembly for a file
+src/graph.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c-data-datastructures.dir\build.make CMakeFiles/c-data-datastructures.dir/src/graph.c.s
+.PHONY : src/graph.c.s
+
 src/list.obj: src/list.c.obj
 .PHONY : src/list.obj
 
@@ -247,6 +271,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... c-data-datastructures
 	@echo ... main
+	@echo ... src/graph.obj
+	@echo ... src/graph.i
+	@echo ... src/graph.s
 	@echo ... src/list.obj
 	@echo ... src/list.i
 	@echo ... src/list.s

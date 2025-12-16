@@ -113,11 +113,27 @@ CMakeFiles/c-data-datastructures.dir/src/stack.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c-data-datastructures.dir/src/stack.c.s"
 	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\src\stack.c -o CMakeFiles\c-data-datastructures.dir\src\stack.c.s
 
+CMakeFiles/c-data-datastructures.dir/src/graph.c.obj: CMakeFiles/c-data-datastructures.dir/flags.make
+CMakeFiles/c-data-datastructures.dir/src/graph.c.obj: CMakeFiles/c-data-datastructures.dir/includes_C.rsp
+CMakeFiles/c-data-datastructures.dir/src/graph.c.obj: C:/Users/jvgam/Yggdrasil/Code/Libraries/c-data-structures/src/graph.c
+CMakeFiles/c-data-datastructures.dir/src/graph.c.obj: CMakeFiles/c-data-datastructures.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/c-data-datastructures.dir/src/graph.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c-data-datastructures.dir/src/graph.c.obj -MF CMakeFiles\c-data-datastructures.dir\src\graph.c.obj.d -o CMakeFiles\c-data-datastructures.dir\src\graph.c.obj -c C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\src\graph.c
+
+CMakeFiles/c-data-datastructures.dir/src/graph.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c-data-datastructures.dir/src/graph.c.i"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\src\graph.c > CMakeFiles\c-data-datastructures.dir\src\graph.c.i
+
+CMakeFiles/c-data-datastructures.dir/src/graph.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c-data-datastructures.dir/src/graph.c.s"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\src\graph.c -o CMakeFiles\c-data-datastructures.dir\src\graph.c.s
+
 # Object files for target c-data-datastructures
 c__data__datastructures_OBJECTS = \
 "CMakeFiles/c-data-datastructures.dir/src/vector.c.obj" \
 "CMakeFiles/c-data-datastructures.dir/src/list.c.obj" \
-"CMakeFiles/c-data-datastructures.dir/src/stack.c.obj"
+"CMakeFiles/c-data-datastructures.dir/src/stack.c.obj" \
+"CMakeFiles/c-data-datastructures.dir/src/graph.c.obj"
 
 # External object files for target c-data-datastructures
 c__data__datastructures_EXTERNAL_OBJECTS =
@@ -125,9 +141,10 @@ c__data__datastructures_EXTERNAL_OBJECTS =
 libc-data-datastructures.a: CMakeFiles/c-data-datastructures.dir/src/vector.c.obj
 libc-data-datastructures.a: CMakeFiles/c-data-datastructures.dir/src/list.c.obj
 libc-data-datastructures.a: CMakeFiles/c-data-datastructures.dir/src/stack.c.obj
+libc-data-datastructures.a: CMakeFiles/c-data-datastructures.dir/src/graph.c.obj
 libc-data-datastructures.a: CMakeFiles/c-data-datastructures.dir/build.make
 libc-data-datastructures.a: CMakeFiles/c-data-datastructures.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C static library libc-data-datastructures.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C static library libc-data-datastructures.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\c-data-datastructures.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\c-data-datastructures.dir\link.txt --verbose=$(VERBOSE)
 

@@ -11,7 +11,7 @@ CMakeFiles/main.dir/test/main.c.obj: \
  C:/MinGW/x86_64-w64-mingw32/include/_mingw_off_t.h \
  C:/MinGW/x86_64-w64-mingw32/include/swprintf.inl \
  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
- C:/Users/jvgam/Yggdrasil/Code/Libraries/c-data-structures/include/list.h \
+ C:/Users/jvgam/Yggdrasil/Code/Libraries/c-data-structures/include/stack.h \
  C:/MinGW/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
  C:/MinGW/x86_64-w64-mingw32/include/stdint.h \
  C:/MinGW/x86_64-w64-mingw32/include/crtdefs.h \

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Libraries" targetName="c-data-datastructures" />
+      <config projectName="Libraries" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="637fdf99-a08c-4928-8397-db6d5b8885be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/c-data-structures/include/graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-data-structures/src/graph.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5f6331acb608e0d05a67.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/.cmake/api/v1/reply/index-2025-10-16T15-21-50-0300.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/.cmake/api/v1/reply/target-c-data-datastructures-Debug-cd5c06f97625d6caa184.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/.cmake/api/v1/reply/target-main-Debug-cb1b8227fe7bdcf08427.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/c-data-datastructures.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/test/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/test/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/test/main.c.obj.d" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/main.dir/test/main.c.obj.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/cmake-build-debug/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-data-structures/test/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/c-data-structures/test/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Erwin5642&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Erwin5642/Libraries.git&quot;,
+    &quot;accountId&quot;: &quot;425d6b04-26d5-433e-8344-6cdb56c3e66a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/c-data-structures/include/list.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-data-structures/include/vector.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-data-structures/src/list.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-data-structures/src/stack.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-data-structures/src/vector.c" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="347DAdQiWHBU3e4AKqUQjbw4MKy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Application.c-data-datastructures.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Algorithm_Analysis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\src" />
+      <recent name="C:\Users\jvgam\Yggdrasil\Code\Libraries\c-data-structures\include" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.main">
+    <configuration name="c-data-datastructures" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Libraries" TARGET_NAME="c-data-datastructures" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Libraries" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Libraries" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.c-data-datastructures" />
+      <item itemvalue="CMake Application.main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="637fdf99-a08c-4928-8397-db6d5b8885be" name="Changes" comment="" />
+      <created>1760555575562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760555575562</updated>
+      <workItem from="1760555576450" duration="222000" />
+      <workItem from="1760558395398" duration="6408000" />
+      <workItem from="1760619395195" duration="11156000" />
+      <workItem from="1760644388894" duration="864000" />
+      <workItem from="1761069871601" duration="2827000" />
+      <workItem from="1761305880610" duration="40000" />
+      <workItem from="1765910253683" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

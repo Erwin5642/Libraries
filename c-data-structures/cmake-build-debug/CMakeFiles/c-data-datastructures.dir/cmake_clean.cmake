@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/c-data-datastructures.dir/src/graph.c.obj"
+  "CMakeFiles/c-data-datastructures.dir/src/graph.c.obj.d"
   "CMakeFiles/c-data-datastructures.dir/src/list.c.obj"
   "CMakeFiles/c-data-datastructures.dir/src/list.c.obj.d"
   "CMakeFiles/c-data-datastructures.dir/src/stack.c.obj"
